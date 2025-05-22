@@ -1,0 +1,21 @@
+.testeee{
+    color: aquamarine;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap');
+
+body{
+
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, system-ui;
+    color: aliceblue;
+    background: #1c144a;
+background: linear-gradient(201deg,rgba(28, 20, 74, 1) 0%, rgba(60, 21, 64, 1) 30%, rgba(237, 83, 119, 1) 100%) no-repeat;
+}
+
+.avatar{
+    width: 280px;
+    border: 1px solid rgb(75, 43, 90);
+    border-radius: 120px;
+}
+
+    

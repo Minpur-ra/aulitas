@@ -1,0 +1,31 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    gap: 30px;
+}
+
+.content-1 {
+    background-color: rgb(156, 22, 105);
+    height: 300px;
+}
+
+.content-2 {
+    background-color: rgb(62, 94, 64);
+height: 330px;
+}
+
+.interna1 {
+    background-color: #cfb023;
+    width: 40%;
+}
+
+.interna2 {
+    background-color: rgb(43, 116, 226);
+    width: 50%;
+}
